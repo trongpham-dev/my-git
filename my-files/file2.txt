@@ -1,0 +1,2 @@
+this is file that was created from feature branch
+another line was added from new branch
